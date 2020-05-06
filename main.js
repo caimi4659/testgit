@@ -18,7 +18,7 @@ render(
 
     <Provider {...stores}>
         <Router >
-            {getRoutes()}22222222,3333333333,44444444,77777777,8888888
+            {getRoutes()}22222222,3333333333,44444444,77777777,0000000
         </Router>
     </Provider>,
 
